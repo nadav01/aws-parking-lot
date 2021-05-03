@@ -1,0 +1,4 @@
+flask
+flask-restful
+boto3
+gunicorn
